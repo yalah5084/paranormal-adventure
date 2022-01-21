@@ -1,5 +1,5 @@
 (description)
 
 [Apologize](dead.md)  
-[Attack them](get-key-to-room.md)  
+[Attack them](key.md)  
 [Start over](README.md)
