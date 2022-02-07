@@ -1,1 +1,3 @@
+You ended up in a room all by youself and you can't find a way out. You started to feel hungry then you starve to death...
+
 [Start over](../README.md)
