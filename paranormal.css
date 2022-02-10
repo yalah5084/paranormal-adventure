@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    font-size: 80px;
+    text-decoration: underline;
+    color: blue;
+}
+
+.door {
+    height: 300px;
+    width: 300px;
+}
+
+div {
+    /*border: 4px black solid;*/
+    display: inline-block;
+    padding: 30px;
+    margin: 50px;
+    margin-left: 165px;
+    /*background-color: black;*/
+}
+
+.center-doors {
+    text-align: center;
+}
+
+img {
+    margin: 15px;
+}
+
+#center {
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background: black;
+}
+
+h5 {
+    font-size: 40px;
+}
+/*#center-div {*/
+/*    margin: auto 100px;*/
+/*}*/
