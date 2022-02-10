@@ -15,11 +15,7 @@ div {
     display: inline-block;
     padding: 30px;
     margin: 45px;
-    margin-left: 165px;
-}
-
-.width {
-    width: 33;
+    margin-left: 170px;
 }
 
 .center-doors {
@@ -56,10 +52,45 @@ h4 {
 
 #twin-margin {
     margin: 20px;
-    margin-bottom: ;
 }
 
+.aqua:hover {
+    color: #2EC4B6;
+}
 
-/*#center-div {*/
-/*    margin: auto 100px;*/
-/*}*/
+.ruby-red {
+    color: #9a031E;
+}
+
+.blue {
+    color: #9cc4b2;
+}
+
+.tea-green {
+    color: #ccf5ac;
+}
+
+.purple {
+    color: #7e2e84;
+}
+
+.light-yellow {
+    color: #f5dd90;
+}
+
+.peach {
+    color: #ffbfa0;
+}
+
+.raspberry {
+    color: #c33139;
+}
+
+.light-green {
+    color: #d4dccd;
+}
+
+.pink {
+    color: #FFC4D1;
+}
+
