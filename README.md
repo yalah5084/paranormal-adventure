@@ -1,6 +1,6 @@
 # Paranormal Universe
 
-The purpose of creating this repository was to pracrice collaboration and linking files.
+The purpose of creating this repository was to practice collaboration and linking files.
 
 Click [here](https://yalah5084.github.io/paranormal-adventure/choose-door.html) to begin.
 
